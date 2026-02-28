@@ -10,13 +10,12 @@ Hi 👋! My name is <b>Govind Sai Krishna Rayarao</b> and I'm a <b>Python Backen
 
 ###
 <p align="center">
-  <img src="https://your-vercel-deployment.vercel.app/api?username=GovindSaiKrishnaRayarao&show_icons=true&theme=dracula" height="160"/>
+  <img src="assets/stats.png" height="160"/>
 </p>
 
 <p align="center">
-  <img src="https://your-vercel-deployment.vercel.app/api/top-langs/?username=GovindSaiKrishnaRayarao&layout=compact&theme=dracula" height="140"/>
+  <img src="assets/top-langs.png" height="140"/>
 </p>
-
 ###
 
 ## 👨‍💻 About Me
