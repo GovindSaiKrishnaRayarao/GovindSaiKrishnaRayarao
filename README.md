@@ -9,11 +9,19 @@ Hi 👋! My name is <b>Govind Sai Krishna Rayarao</b> and I'm a <b>Python Backen
 </h2>
 
 ###
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=GovindSaiKrishnaRayarao&show_icons=true&theme=dracula&hide_border=true&cache_seconds=1800"
+    height="160"
+  />
+</p>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GovindSaiKrishnaRayarao&show_icons=true&include_all_commits=true&count_private=true&theme=dracula" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GovindSaiKrishnaRayarao&layout=compact&langs_count=6&theme=dracula" height="150"/>
-</div>
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=GovindSaiKrishnaRayarao&layout=compact&theme=dracula&hide_border=true&cache_seconds=1800"
+    height="140"
+  />
+</p>
 
 ###
 
