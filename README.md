@@ -10,17 +10,11 @@ Hi 👋! My name is <b>Govind Sai Krishna Rayarao</b> and I'm a <b>Python Backen
 
 ###
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=GovindSaiKrishnaRayarao&show_icons=true&theme=dracula&hide_border=true&cache_seconds=1800"
-    height="160"
-  />
+  <img src="https://your-vercel-deployment.vercel.app/api?username=GovindSaiKrishnaRayarao&show_icons=true&theme=dracula" height="160"/>
 </p>
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=GovindSaiKrishnaRayarao&layout=compact&theme=dracula&hide_border=true&cache_seconds=1800"
-    height="140"
-  />
+  <img src="https://your-vercel-deployment.vercel.app/api/top-langs/?username=GovindSaiKrishnaRayarao&layout=compact&theme=dracula" height="140"/>
 </p>
 
 ###
