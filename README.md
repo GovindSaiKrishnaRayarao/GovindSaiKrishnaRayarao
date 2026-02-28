@@ -1,17 +1,19 @@
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
+</div>
+
+###
+
 <h2 align="left">
-Hi 👋! My name is <b>Govind Sai Krishna</b> and I'm a <b>Python Backend Developer</b>, from <b>Hyderabad 🇮🇳</b>
+Hi 👋! My name is <b>Govind Sai Krishna Rayarao</b> and I'm a <b>Python Backend Developer</b>, from <b>Hyderabad 🇮🇳</b>
 </h2>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&include_all_commits=true&count_private=true&theme=dracula" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=YOUR_USERNAME&layout=compact&langs_count=6&theme=dracula" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=GovindSaiKrishnaRayarao&show_icons=true&include_all_commits=true&count_private=true&theme=dracula" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GovindSaiKrishnaRayarao&layout=compact&langs_count=6&theme=dracula" height="150"/>
 </div>
-
-###
-
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"/>
 
 ###
 
@@ -20,12 +22,12 @@ Hi 👋! My name is <b>Govind Sai Krishna</b> and I'm a <b>Python Backend Develo
 - 🐍 Entry-level **Python Backend Developer**
 - 🔭 Former **Project Intern @ BHEL**
 - ⚙️ Built automation pipelines that reduced manual work by **~80%**
-- 🌱 Currently focused on **Django REST Framework & backend design**
+- 🌱 Focused on **Django REST Framework & backend design**
 - ☁️ **Microsoft Azure Fundamentals (AZ-900)** certified  
-- 🧠 Strong believer in clean code, PEP-8, and boring-but-scalable systems
+- 🧠 Strong believer in clean code, PEP-8 standards, and scalable systems
 
 > Hot take:  
-> If it’s flashy but unreadable, it’s already technical debt.
+> If a system is flashy but unreadable, it’s already technical debt.
 
 ---
 
@@ -50,28 +52,30 @@ Hi 👋! My name is <b>Govind Sai Krishna</b> and I'm a <b>Python Backend Develo
 ## 🧪 Featured Work
 
 ### 🔧 Automated Data Extraction Pipeline
-- Python-based ETL with OCR + web scraping  
-- Reduced processing time by **~80%**  
-- Stack: Python · OpenCV · Pytesseract · JSON · BeautifulSoup  
+- Python ETL with OCR + web scraping
+- Reduced processing time by **~80%**
+- Tools: Python · OpenCV · Pytesseract · BeautifulSoup
 
 ### 🏥 Hospital Management System
-- Full-stack Django app with REST APIs & RBAC  
-- PostgreSQL-backed, secure, scalable  
+- Full-stack Django app with REST APIs & RBAC
+- PostgreSQL database
 
 ### 📰 Fake News Detection System
-- ML + NLP classification using TF-IDF  
-- Models: Logistic Regression, Naive Bayes, SVM  
+- ML + NLP using TF-IDF and classifiers
 
 ---
 
 ## 🌐 Connect With Me
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
+  <a href="https://www.linkedin.com/in/govind-sai-krishna-rayarao">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
   </a>
   <a href="mailto:govindsaikrishnarayarao@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail"/>
+  </a>
+  <a href="https://github.com/GovindSaiKrishnaRayarao">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
   </a>
 </div>
 
@@ -80,18 +84,5 @@ Hi 👋! My name is <b>Govind Sai Krishna</b> and I'm a <b>Python Backend Develo
 ## 🔥 GitHub Grind
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=dracula" height="150"/>
-  <img src="https://github-profile-trophy.vercel.app?username=YOUR_USERNAME&theme=dracula&column=-1" height="150"/>
+  <img src="https://streak-stats.demolab.com?user=GovindSaiKrishnaRayarao&theme=dracula" height="150"/>
 </div>
-
----
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/pacman-contribution-graph.svg">
-</picture>
-
----
-
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/snake.svg" alt="Snake animation"/>
