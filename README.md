@@ -29,12 +29,12 @@ Hi 👋! I'm <b>Govind Sai Krishna Rayarao</b>, a <b>Python Backend Developer</b
 
 ## 👨‍💻 About Me
 
-- 🐍 Entry-level **Python Backend Developer**
-- 🔭 Former **Project Intern @ BHEL**
-- ⚙️ Built automation pipelines reducing manual work by **~80%**
-- 🌱 Focused on **Django REST Framework & backend design**
+- 🐍 Entry-level **Python Backend Developer**  
+- 🔭 Former **Project Intern @ BHEL**  
+- ⚙️ Built automation pipelines reducing manual work by **~80%**  
+- 🌱 Focused on **Django REST Framework & backend design**  
 - ☁️ **Microsoft Azure Fundamentals (AZ-900)** certified  
-- 🧠 Strong believer in clean code, PEP-8, and scalable systems
+- 🧠 Strong believer in clean code, PEP-8, and scalable systems  
 
 > Hot take:  
 > If a system is flashy but unreadable, it’s already technical debt.
@@ -43,26 +43,32 @@ Hi 👋! I'm <b>Govind Sai Krishna Rayarao</b>, a <b>Python Backend Developer</b
 
 ## 🧪 Featured Projects
 
-### 🔧 Automated Data Extraction Pipeline
-- Python ETL with OCR + web scraping
-- Reduced processing time by **~80%**
-- Tools: Python · OpenCV · Pytesseract · BeautifulSoup
+### 🔧 [Automated Data Extraction Pipeline (Web Scraping)](https://github.com/GovindSaiKrishnaRayarao/webscraping)
+- Python ETL with OCR + web scraping  
+- Reduced processing time by **~80%**  
+- Tools: Python · OpenCV · Pytesseract · BeautifulSoup  
 
-### 🏥 Hospital Management System
-- Full-stack Django app with REST APIs & RBAC
-- PostgreSQL database
+### 🏥 [Hospital Management System](https://github.com/GovindSaiKrishnaRayarao/hospital-project)
+- Full-stack Django app with REST APIs & RBAC  
+- PostgreSQL database  
 
 ### 📰 Fake News Detection System
-- ML + NLP using TF-IDF and classifiers
+- ML + NLP using TF-IDF and classifiers  
 
 ---
 
 ## 🔥 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GovindSaiKrishnaRayarao&show_icons=true&theme=dracula&hide_border=true" height="160" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GovindSaiKrishnaRayarao&layout=compact&theme=dracula&hide_border=true" height="140" alt="Top Languages"/>
-  <img src="https://streak-stats.demolab.com?user=GovindSaiKrishnaRayarao&theme=dracula" height="150" alt="GitHub Streak"/>
+  <a href="https://github.com/GovindSaiKrishnaRayarao">
+    <img src="https://github-readme-stats.vercel.app/api?username=GovindSaiKrishnaRayarao&show_icons=true&theme=dracula&hide_border=true" height="160" alt="GitHub Stats"/>
+  </a>
+  <a href="https://github.com/GovindSaiKrishnaRayarao">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GovindSaiKrishnaRayarao&layout=compact&theme=dracula&hide_border=true" height="140" alt="Top Languages"/>
+  </a>
+  <a href="https://github.com/GovindSaiKrishnaRayarao">
+    <img src="https://streak-stats.demolab.com?user=GovindSaiKrishnaRayarao&theme=dracula" height="150" alt="GitHub Streak"/>
+  </a>
 </p>
 
 ---
