@@ -1,89 +1,97 @@
-<div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
-</div>
+<h2 align="left">
+Hi 👋! My name is <b>Govind Sai Krishna</b> and I'm a <b>Python Backend Developer</b>, from <b>Hyderabad 🇮🇳</b>
+</h2>
 
 ###
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&style=for-the-badge" height="25"/>
-  </a>
-  <a href="https://github.com/YOUR_USERNAME">
-    <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&color=000000&style=for-the-badge" height="25"/>
-  </a>
-  <a href="mailto:govindsaikrishnarayarao@gmail.com">
-    <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&color=D14836&style=for-the-badge" height="25"/>
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&include_all_commits=true&count_private=true&theme=dracula" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=YOUR_USERNAME&layout=compact&langs_count=6&theme=dracula" height="150"/>
 </div>
 
 ###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=govindsaikrishna.govindsaikrishna" />
-</div>
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"/>
 
 ###
 
-<h1 align="center">hey there 👋 I'm Govind</h1>
+## 👨‍💻 About Me
 
-###
+- 🐍 Entry-level **Python Backend Developer**
+- 🔭 Former **Project Intern @ BHEL**
+- ⚙️ Built automation pipelines that reduced manual work by **~80%**
+- 🌱 Currently focused on **Django REST Framework & backend design**
+- ☁️ **Microsoft Azure Fundamentals (AZ-900)** certified  
+- 🧠 Strong believer in clean code, PEP-8, and boring-but-scalable systems
 
-<h3 align="left">👩‍💻 About Me</h3>
+> Hot take:  
+> If it’s flashy but unreadable, it’s already technical debt.
 
-<p align="left">
-Entry-level <b>Python Developer</b> from Hyderabad with hands-on experience in backend development, RESTful APIs, and data-driven applications.<br><br>
-- 🔭 Former Project Intern at <b>BHEL</b> (Python Automation & OCR Pipelines)<br>
-- 📚 Currently sharpening skills in <b>Django REST Framework</b> & backend engineering<br>
-- ⚡ Believe in clean code, PEP-8 discipline, and boring-but-reliable systems
-</p>
+---
 
-###
-
-<h3 align="left">🛠 Language and Tools</h3>
+## 🛠 Tech Stack
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30"/>
   <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="30"/>
   <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30"/>
   <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30"/>
   <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30"/>
   <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30"/>
 </div>
 
-###
+---
 
-<h3 align="left">📌 Featured Projects</h3>
+## 🧪 Featured Work
 
-<ul>
-  <li>
-    <b>Automated Data Extraction Pipeline</b><br>
-    Python-based ETL system using OCR (OpenCV, Pytesseract) and web scraping.<br>
-    ⏱️ Reduced manual processing time by ~80%.
-  </li><br>
+### 🔧 Automated Data Extraction Pipeline
+- Python-based ETL with OCR + web scraping  
+- Reduced processing time by **~80%**  
+- Stack: Python · OpenCV · Pytesseract · JSON · BeautifulSoup  
 
-  <li>
-    <b>Hospital Management System</b><br>
-    Full-stack Django application with REST APIs and role-based access control.
-  </li><br>
+### 🏥 Hospital Management System
+- Full-stack Django app with REST APIs & RBAC  
+- PostgreSQL-backed, secure, scalable  
 
-  <li>
-    <b>Fake News Detection App</b><br>
-    Machine learning system using TF-IDF, NLP, and classification models (SVM, NB).
-  </li>
-</ul>
+### 📰 Fake News Detection System
+- ML + NLP classification using TF-IDF  
+- Models: Logistic Regression, Naive Bayes, SVM  
 
-###
+---
 
-<h3 align="left">🔥 GitHub Stats</h3>
+## 🌐 Connect With Me
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="mailto:govindsaikrishnarayarao@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail"/>
+  </a>
+</div>
+
+---
+
+## 🔥 GitHub Grind
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=dark" height="160"/>
+  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=dracula" height="150"/>
+  <img src="https://github-profile-trophy.vercel.app?username=YOUR_USERNAME&theme=dracula&column=-1" height="150"/>
 </div>
+
+---
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/pacman-contribution-graph.svg">
+</picture>
+
+---
+
+<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/snake.svg" alt="Snake animation"/>
