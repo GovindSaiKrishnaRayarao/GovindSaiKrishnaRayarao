@@ -69,10 +69,13 @@ I am an entry-level **Python Backend Developer** focused on building **robust, s
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GovindSaiKrishnaRayarao&show_icons=true&theme=dracula&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GovindSaiKrishnaRayarao&layout=compact&theme=dracula&hide_border=true" height="140"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=GovindSaiKrishnaRayarao&show_icons=true&theme=dracula&hide_border=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GovindSaiKrishnaRayarao&layout=compact&theme=dracula&hide_border=true" height="170" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GovindSaiKrishnaRayarao&theme=dracula&hide_border=true" alt="GitHub Streak" />
+</p>
 ---
 
 ## 🌐 Connect With Me
