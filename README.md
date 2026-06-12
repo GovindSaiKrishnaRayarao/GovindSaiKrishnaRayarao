@@ -42,6 +42,8 @@ I am an entry-level **Python Backend Developer** focused on building **robust, s
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="35"/>
   <img width="15"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="35"/>
+  <img width="15"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aws/aws-original.svg" height="35"/>
 </div>
 
 ---
