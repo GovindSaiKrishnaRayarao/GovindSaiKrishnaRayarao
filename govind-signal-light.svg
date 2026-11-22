@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 360" width="1200" height="360">
+<defs><linearGradient id="b" x2="1" y2="1"><stop stop-color="#020617"/><stop offset="1" stop-color="#111827"/></linearGradient><filter id="g"><feGaussianBlur stdDeviation="5" result="x"/><feMerge><feMergeNode in="x"/><feMergeNode in="SourceGraphic"/></feMerge></filter></defs>
+<rect width="1200" height="360" rx="22" fill="url(#b)"/>
+<text x="45" y="48" fill="#67e8f9" font-family="monospace" font-size="14">DEVOPS SIGNAL / LIVE STACK</text>
+<text x="1155" y="48" text-anchor="end" fill="#34d399" font-family="monospace" font-size="12">● MONITORING</text>
+<path d="M45 105H1155M45 160H1155M45 215H1155M45 270H1155" stroke="#94a3b8" stroke-opacity=".08"/>
+<path d="M80 245 L150 180 L220 220 L290 125 L360 190 L430 150 L500 205 L570 110 L640 175 L710 135 L780 215 L850 155 L920 185 L990 100 L1060 165 L1130 125" fill="none" stroke="#22d3ee" stroke-width="3" filter="url(#g)">
+<animate attributeName="stroke-dasharray" values="0 2000;2000 0" dur="4s" repeatCount="indefinite"/>
+</path>
+<g font-family="Arial" font-size="12" text-anchor="middle">
+<g fill="#67e8f9"><text x="120" y="310">AWS</text><text x="270" y="310">Terraform</text><text x="420" y="310">Jenkins</text><text x="570" y="310">Docker</text></g>
+<g fill="#a78bfa"><text x="720" y="310">Kubernetes</text><text x="870" y="310">Python</text><text x="1020" y="310">Linux</text></g>
+</g>
+<g fill="#34d399"><circle cx="150" cy="180" r="5"/><circle cx="290" cy="125" r="5"/><circle cx="570" cy="110" r="5"/><circle cx="990" cy="100" r="5"/></g>
+<text x="45" y="340" fill="#64748b" font-family="monospace" font-size="10">automation → infrastructure → pipeline → containers → orchestration → observability</text>
+</svg>

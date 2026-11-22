@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 220" width="1200" height="220">
+<defs><linearGradient id="b" x2="1"><stop stop-color="#020617"/><stop offset=".5" stop-color="#111827"/><stop offset="1" stop-color="#020617"/></linearGradient><linearGradient id="l"><stop stop-color="#22d3ee"/><stop offset=".5" stop-color="#8b5cf6"/><stop offset="1" stop-color="#34d399"/></linearGradient></defs>
+<rect width="1200" height="220" rx="22" fill="url(#b)"/>
+<text x="600" y="55" text-anchor="middle" fill="#fff" font-family="Arial" font-size="25" font-weight="700">BUILD • AUTOMATE • DEPLOY • MONITOR</text>
+<text x="600" y="82" text-anchor="middle" fill="#94a3b8" font-family="monospace" font-size="12">AWS → Terraform → CI/CD → Docker → Kubernetes → Observability</text>
+<path d="M120 135H1080" stroke="#334155" stroke-width="3"/>
+<path d="M120 135H1080" stroke="url(#l)" stroke-width="3" stroke-dasharray="45 35"><animate attributeName="stroke-dashoffset" from="0" to="-160" dur="2s" repeatCount="indefinite"/></path>
+<g font-family="monospace" font-size="11" text-anchor="middle">
+<text x="120" y="165" fill="#22d3ee">AWS</text><text x="310" y="165" fill="#a78bfa">TERRAFORM</text><text x="500" y="165" fill="#f472b6">JENKINS</text><text x="690" y="165" fill="#34d399">DOCKER</text><text x="880" y="165" fill="#67e8f9">K8S</text><text x="1080" y="165" fill="#fbbf24">MONITOR</text>
+</g>
+<circle cx="120" cy="135" r="7" fill="#22d3ee"><animate attributeName="r" values="6;11;6" dur="1.5s" repeatCount="indefinite"/></circle>
+<circle cx="1080" cy="135" r="7" fill="#34d399"><animate attributeName="r" values="6;11;6" dur="1.5s" repeatCount="indefinite"/></circle>
+<text x="600" y="198" text-anchor="middle" fill="#64748b" font-family="Arial" font-size="11">Govind Sai Krishna Rayarao · Junior DevOps / Cloud Engineer</text>
+</svg>

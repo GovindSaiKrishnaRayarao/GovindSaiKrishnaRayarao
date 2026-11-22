@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 420" width="1200" height="420">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#020617"/><stop offset=".5" stop-color="#111827"/><stop offset="1" stop-color="#020617"/></linearGradient>
+  <linearGradient id="g" x1="0" x2="1"><stop stop-color="#22d3ee"><animate attributeName="x1" values="0;1;0" dur="5s" repeatCount="indefinite"/></stop><stop offset=".5" stop-color="#8b5cf6"/><stop offset="1" stop-color="#34d399"/></linearGradient>
+  <filter id="glow"><feGaussianBlur stdDeviation="7" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse"><path d="M36 0H0V36" fill="none" stroke="#67e8f9" stroke-opacity=".05"/></pattern>
+</defs>
+<rect width="1200" height="420" rx="24" fill="url(#bg)"/><rect width="1200" height="420" rx="24" fill="url(#grid)"/>
+<circle cx="150" cy="100" r="150" fill="#06b6d4" opacity=".10" filter="url(#glow)"><animate attributeName="cx" values="150;280;150" dur="9s" repeatCount="indefinite"/></circle>
+<circle cx="1050" cy="330" r="170" fill="#8b5cf6" opacity=".11" filter="url(#glow)"><animate attributeName="cy" values="330;240;330" dur="10s" repeatCount="indefinite"/></circle>
+
+<rect x="34" y="28" width="1132" height="46" rx="23" fill="#ffffff" fill-opacity=".07" stroke="#fff" stroke-opacity=".16"/>
+<circle cx="61" cy="51" r="5" fill="#f87171"/><circle cx="79" cy="51" r="5" fill="#fbbf24"/><circle cx="97" cy="51" r="5" fill="#34d399"/>
+<text x="122" y="56" fill="#a5f3fc" font-family="monospace" font-size="13">~/govind-sai-krishna-rayarao $ whoami</text>
+<text x="1135" y="56" text-anchor="end" fill="#34d399" font-family="monospace" font-size="12">● AVAILABLE</text>
+
+<rect x="55" y="98" width="610" height="270" rx="26" fill="#ffffff" fill-opacity=".07" stroke="#fff" stroke-opacity=".15"/>
+<text x="82" y="133" fill="#67e8f9" font-family="monospace" font-size="12">&lt;JUNIOR_DEVOPS_ENGINEER /&gt;</text>
+<text x="82" y="185" fill="url(#g)" font-family="Arial, sans-serif" font-size="38" font-weight="700">Govind Sai Krishna</text>
+<text x="82" y="228" fill="url(#g)" font-family="Arial, sans-serif" font-size="38" font-weight="700">Rayarao</text>
+<text x="82" y="258" fill="#dbeafe" font-family="Arial, sans-serif" font-size="16">AWS Cloud • Terraform • CI/CD • Docker • Kubernetes</text>
+<text x="82" y="283" fill="#94a3b8" font-family="Arial, sans-serif" font-size="13">Turning manual processes into automated, repeatable workflows.</text>
+
+<rect x="82" y="307" width="470" height="38" rx="9" fill="#020617" stroke="#22d3ee" stroke-opacity=".35"/>
+<text x="97" y="331" fill="#34d399" font-family="monospace" font-size="12">$ terraform apply</text>
+<text x="238" y="331" fill="#67e8f9" font-family="monospace" font-size="12"> infrastructure ready</text>
+<circle cx="532" cy="326" r="3" fill="#34d399"><animate attributeName="opacity" values="1;.2;1" dur="1s" repeatCount="indefinite"/></circle>
+
+<g transform="translate(900 232)">
+<circle r="145" fill="none" stroke="#8b5cf6" stroke-opacity=".22" stroke-dasharray="5 10"><animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="24s" repeatCount="indefinite"/></circle>
+<circle r="100" fill="none" stroke="#22d3ee" stroke-opacity=".28" stroke-dasharray="4 8"><animateTransform attributeName="transform" type="rotate" from="360" to="0" dur="17s" repeatCount="indefinite"/></circle>
+<circle r="55" fill="#020617" stroke="#67e8f9" stroke-width="2"><animate attributeName="stroke-opacity" values=".3;1;.3" dur="2s" repeatCount="indefinite"/></circle>
+<text y="-3" text-anchor="middle" fill="#fff" font-family="Arial" font-size="17" font-weight="700">DEVOPS</text>
+<text y="17" text-anchor="middle" fill="#67e8f9" font-family="monospace" font-size="10">AUTOMATION</text>
+<g fill="#22d3ee"><circle cy="-145" r="7"><animate attributeName="r" values="6;10;6" dur="2s" repeatCount="indefinite"/></circle></g>
+<g fill="#8b5cf6"><circle cx="145" r="7"><animate attributeName="r" values="6;10;6" dur="2.4s" repeatCount="indefinite"/></circle></g>
+<g fill="#34d399"><circle cy="145" r="7"><animate attributeName="r" values="6;10;6" dur="1.8s" repeatCount="indefinite"/></circle></g>
+<g fill="#f472b6"><circle cx="-145" r="7"><animate attributeName="r" values="6;10;6" dur="2.2s" repeatCount="indefinite"/></circle></g>
+<text y="-166" text-anchor="middle" fill="#67e8f9" font-family="monospace" font-size="11">AWS</text>
+<text x="170" y="4" fill="#a78bfa" font-family="monospace" font-size="11">Terraform</text>
+<text y="167" text-anchor="middle" fill="#34d399" font-family="monospace" font-size="11">Docker</text>
+<text x="-170" y="4" text-anchor="end" fill="#f472b6" font-family="monospace" font-size="11">Kubernetes</text>
+</g>
+
+<rect x="55" y="98" width="1110" height="2" fill="#22d3ee" opacity=".18"><animate attributeName="y" values="98;368;98" dur="6s" repeatCount="indefinite"/></rect>
+</svg>

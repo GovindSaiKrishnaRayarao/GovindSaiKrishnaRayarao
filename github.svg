@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="150" height="32" viewBox="0 0 150 32">
+<rect width="150" height="32" rx="16" fill="#e2e8f0" fill-opacity=".15" stroke="#e2e8f0" stroke-opacity=".65"/>
+<text x="16" y="21" fill="#e2e8f0" font-family="Arial" font-size="13" font-weight="700">◉</text>
+<text x="38" y="21" fill="#e2e8f0" font-family="Arial" font-size="12">GitHub</text>
+</svg>
