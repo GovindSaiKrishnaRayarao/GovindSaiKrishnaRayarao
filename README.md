@@ -1,416 +1,617 @@
 <p align="center">
   <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/GovindSaiKrishnaRayarao/GovindSaiKrishnaRayarao/main/govind-hero-dark.svg"
-    >
-    <img
-      src="https://raw.githubusercontent.com/GovindSaiKrishnaRayarao/GovindSaiKrishnaRayarao/main/govind-hero-light.svg"
-      alt="Govind Sai Krishna Rayarao — DevOps Engineer | AWS Cloud | Terraform | Docker | CI/CD"
-      width="100%"
-    >
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GovindSaiKrishnaRayarao/GovindSaiKrishnaRayarao/main/assets/govind-hero-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GovindSaiKrishnaRayarao/GovindSaiKrishnaRayarao/main/assets/govind-hero-light.svg">
+    <img src="https://raw.githubusercontent.com/GovindSaiKrishnaRayarao/GovindSaiKrishnaRayarao/main/assets/govind-hero-dark.svg" width="100%" alt="Govind Sai Krishna Rayarao">
   </picture>
 </p>
 
+<h1 align="center">👋 Govind Sai Krishna Rayarao</h1>
+
 <p align="center">
-  <b>Govind Sai Krishna Rayarao</b>
-  · DevOps Engineer
-  · AWS Cloud
-  · Terraform
-  · Docker
-  · CI/CD
+  <strong>Junior DevOps / Cloud Engineer</strong>
 </p>
 
 <p align="center">
+  AWS • Terraform • Jenkins • Docker • Kubernetes • Linux • Python • CI/CD
+</p>
 
-<a href="mailto:govindsaikrishnarayarao@gmail.com">
-  <img
-    src="https://raw.githubusercontent.com/GovindSaiKrishnaRayarao/GovindSaiKrishnaRayarao/main/email.svg"
-    alt="Email"
-    height="28"
-  >
-</a>
+<p align="center">
+  <em>I automate the manual steps and build repeatable cloud workflows.</em>
+</p>
 
-&nbsp;&nbsp;
-
-<a href="https://www.linkedin.com/in/govind-sai-krishna-rayarao">
-  <img
-    src="https://raw.githubusercontent.com/GovindSaiKrishnaRayarao/GovindSaiKrishnaRayarao/main/linkedin.svg"
-    alt="LinkedIn"
-    height="28"
-  >
-</a>
-
-&nbsp;&nbsp;
-
-<a href="https://github.com/GovindSaiKrishnaRayarao">
-  <img
-    src="https://raw.githubusercontent.com/GovindSaiKrishnaRayarao/GovindSaiKrishnaRayarao/main/github.svg"
-    alt="GitHub"
-    height="28"
-  >
-</a>
-
+<p align="center">
+  <a href="https://github.com/GovindSaiKrishnaRayarao">
+    <img src="https://raw.githubusercontent.com/GovindSaiKrishnaRayarao/GovindSaiKrishnaRayarao/main/assets/github.svg" width="55" alt="GitHub">
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/govind-sai-krishna-rayarao/">
+    <img src="https://raw.githubusercontent.com/GovindSaiKrishnaRayarao/GovindSaiKrishnaRayarao/main/assets/linkedin.svg" width="55" alt="LinkedIn">
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:govindsaikrishnarayao@gmail.com">
+    <img src="https://raw.githubusercontent.com/GovindSaiKrishnaRayarao/GovindSaiKrishnaRayarao/main/assets/email.svg" width="55" alt="Email">
+  </a>
 </p>
 
 ---
 
-## 👋 Player 1
+# 🪟 About
 
-I'm an aspiring **DevOps Engineer** focused on **AWS Cloud, Terraform, Docker, Jenkins, Kubernetes, Linux, Python, and CI/CD automation**.
+I'm an aspiring **DevOps / Cloud Engineer** with a B.Tech in **Computer Science & Engineering – Data Science**.
 
-I enjoy turning manual processes into **automated, repeatable, and reliable workflows**, with a focus on infrastructure automation, cloud deployments, containerization, and continuous delivery.
+My primary interests are:
 
-My background also includes Python-based automation, data processing, and machine-learning projects, giving me a strong foundation in scripting, automation, and problem solving.
+- ☁️ AWS Cloud
+- 🏗️ Infrastructure as Code with Terraform
+- 🔄 CI/CD automation
+- 🐳 Docker
+- ☸️ Kubernetes
+- 🐧 Linux
+- 🐍 Python automation
+- 📊 Monitoring and observability
+- 🔐 Cloud infrastructure and security fundamentals
 
-**Now playing:** Building practical AWS and DevOps projects while preparing for **Junior DevOps Engineer, Cloud Support Engineer, Cloud Engineer, and SRE / Cloud Operations opportunities**.
-
----
-
-## ☁️ DevOps & Cloud Stack
-
-### ☁️ Cloud
-
-- [AWS](https://aws.amazon.com/)
-- [Amazon EC2](https://aws.amazon.com/ec2/)
-- [Amazon VPC](https://aws.amazon.com/vpc/)
-- [Amazon S3](https://aws.amazon.com/s3/)
-- [AWS IAM](https://aws.amazon.com/iam/)
-- [Amazon RDS](https://aws.amazon.com/rds/)
-- [AWS Lambda](https://aws.amazon.com/lambda/)
-- [Amazon CloudWatch](https://aws.amazon.com/cloudwatch/)
-- [Amazon Route 53](https://aws.amazon.com/route53/)
-- [Amazon CloudFront](https://aws.amazon.com/cloudfront/)
-- [AWS Auto Scaling](https://aws.amazon.com/autoscaling/)
-- [AWS WAF](https://aws.amazon.com/waf/)
-- [Amazon EKS](https://aws.amazon.com/eks/)
-- [Microsoft Azure Fundamentals](https://learn.microsoft.com/credentials/certifications/azure-fundamentals/)
-
-### 🏗️ Infrastructure as Code
-
-- [Terraform](https://developer.hashicorp.com/terraform)
-- Terraform Modules
-- Variables & Outputs
-- Security Groups
-- VPC Infrastructure
-- EC2 Provisioning
-- RDS Integration
-- Provisioners
-
-### 🔄 CI/CD
-
-- [Jenkins](https://www.jenkins.io/)
-- [GitHub Actions](https://github.com/features/actions)
-- GitHub Webhooks
-- Build / Test / Deploy Pipelines
-- Automated Terraform Workflows
-- Environment-Based Deployments
-
-### 🐳 Containers & Orchestration
-
-- [Docker](https://www.docker.com/)
-- [Kubernetes](https://kubernetes.io/)
-- Pods
-- Deployments
-- Services
-- ConfigMaps
-- Secrets
-- Ingress
-- [Amazon EKS](https://aws.amazon.com/eks/)
-
-### 📊 Monitoring & Observability
-
-- [Amazon CloudWatch](https://aws.amazon.com/cloudwatch/)
-- [Prometheus](https://prometheus.io/)
-- [Grafana](https://grafana.com/)
-- Alertmanager
-- Node Exporter
-
-### 🐧 Operating Systems & Automation
-
-- [Linux](https://www.linux.org/)
-- Bash
-- [Python](https://www.python.org/)
-- Shell Scripting
-- Automation
-- Troubleshooting
-
-### 🔀 Version Control
-
-- [Git](https://git-scm.com/)
-- [GitHub](https://github.com/)
-- [GitHub Actions](https://github.com/features/actions)
+I enjoy taking repetitive manual processes and turning them into **automated, version-controlled and repeatable workflows**.
 
 ---
 
-## 🛠️ Featured Projects
+# 🖥️ `whoami`
 
-### 🔧 AWS Infrastructure with Terraform
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GovindSaiKrishnaRayarao/GovindSaiKrishnaRayarao/main/assets/govind-terminal-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GovindSaiKrishnaRayarao/GovindSaiKrishnaRayarao/main/assets/govind-terminal-light.svg">
+    <img src="https://raw.githubusercontent.com/GovindSaiKrishnaRayarao/GovindSaiKrishnaRayarao/main/assets/govind-terminal-dark.svg" width="100%" alt="Govind DevOps terminal">
+  </picture>
+</p>
 
-Designed and automated AWS infrastructure using **Terraform**, including networking and compute resources.
+```yaml
+name: Govind Sai Krishna Rayarao
+role: Junior DevOps / Cloud Engineer
+location: Hyderabad, India
 
-The project focuses on infrastructure as code, repeatable provisioning, and AWS resource configuration.
+education:
+  degree: B.Tech CSE - Data Science
+  period: 2021 - 2025
 
-**Technologies:**
+cloud:
+  - AWS
+  - Azure Fundamentals
 
-`AWS` `Terraform` `VPC` `EC2` `S3` `IAM` `Security Groups`
+infrastructure:
+  - Terraform
+  - EC2
+  - VPC
+  - S3
+  - IAM
 
----
+ci_cd:
+  - Jenkins
+  - GitHub Actions
+  - Git
+  - GitHub
+  - Webhooks
 
-### 🚀 Terraform + Jenkins CI/CD
+containers:
+  - Docker
+  - Kubernetes
 
-Built an automated infrastructure deployment workflow using **Jenkins and Terraform**.
+automation:
+  - Python
+  - Bash
+  - Shell Scripting
 
-The pipeline connects source control, Jenkins automation, Terraform infrastructure operations, and AWS deployment workflows.
-
-**Technologies:**
-
-`Jenkins` `Terraform` `Git` `GitHub` `AWS` `CI/CD`
-
----
-
-### 🐳 Docker & Kubernetes
-
-Worked with containerized applications using **Docker** and explored application deployment and orchestration using **Kubernetes**.
-
-Hands-on areas include:
-
-- Docker images
-- Docker containers
-- Dockerfiles
-- Kubernetes Pods
-- Deployments
-- Services
-- Ingress
-- ConfigMaps
-- Secrets
-
-**Technologies:**
-
-`Docker` `Kubernetes` `Amazon EKS`
-
----
-
-## 🏭 BHEL Automation Project
-
-During my project internship at **BHEL**, I worked on replacing a manual data-collection workflow with a Python-based automated pipeline.
-
-The solution used a **3-stage data/document processing workflow** to make the process more repeatable and reduce manual effort.
-
-### Key areas
-
-- Python automation
-- Data extraction
-- Web/data processing
-- Document processing
-- OCR
-- Workflow automation
-- Repeatable processing pipelines
-
-**Technologies:**
-
-`Python` `Requests` `BeautifulSoup` `OCR` `Automation`
+observability:
+  - Prometheus
+  - Grafana
+  - AWS CloudWatch
+```
 
 ---
 
-## 🧠 Python & Data Projects
+# 📊 By the Numbers
 
-Before focusing primarily on DevOps, I worked on several Python and machine-learning projects.
+<p align="center">
 
-### 📰 Fake News Detection
+| 🎓 Education | ☁️ Cloud | 🏗️ IaC | 🔄 CI/CD |
+|:---:|:---:|:---:|:---:|
+| B.Tech CSE | AWS | Terraform | Jenkins |
+| Data Science | Azure Fundamentals | Infrastructure | GitHub Actions |
 
-Built a machine-learning model for classifying news as real or fake using:
-
-`Python` `TF-IDF` `N-Grams` `SVM`
-
-### 🧠 Emotion Detection
-
-Worked with NLP-based emotion classification using:
-
-`Python` `NLP` `SVM` `Decision Tree` `Random Forest`
-
-### 📱 Data Analysis
-
-Analyzed mobile-phone specifications and pricing using Python-based data-analysis tools.
-
-**Technologies:**
-
-`Python` `Pandas` `NumPy` `Matplotlib` `Seaborn`
+</p>
 
 ---
 
-## 🎯 Currently Learning
+# 🧩 My DevOps Workflow
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GovindSaiKrishnaRayarao/GovindSaiKrishnaRayarao/main/assets/govind-pipeline-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GovindSaiKrishnaRayarao/GovindSaiKrishnaRayarao/main/assets/govind-pipeline-light.svg">
+    <img src="https://raw.githubusercontent.com/GovindSaiKrishnaRayarao/GovindSaiKrishnaRayarao/main/assets/govind-pipeline-dark.svg" width="100%" alt="Animated DevOps CI/CD pipeline">
+  </picture>
+</p>
 
 ```text
-AWS Cloud
+Developer
     ↓
-Terraform
+Git / GitHub
+    ↓
+Webhook
+    ↓
+Jenkins / GitHub Actions
+    ↓
+Build
+    ↓
+Test
     ↓
 Docker
     ↓
-Jenkins / CI/CD
+Deploy
     ↓
-Kubernetes
+AWS
     ↓
-Amazon EKS
-    ↓
-Monitoring & Observability
-    ↓
-DevOps / SRE
+Monitor
 ```
 
-Currently strengthening my knowledge of:
+---
 
-- AWS architecture
+# ☁️ Cloud & Infrastructure
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GovindSaiKrishnaRayarao/GovindSaiKrishnaRayarao/main/assets/govind-cloud-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GovindSaiKrishnaRayarao/GovindSaiKrishnaRayarao/main/assets/govind-cloud-light.svg">
+    <img src="https://raw.githubusercontent.com/GovindSaiKrishnaRayarao/GovindSaiKrishnaRayarao/main/assets/govind-cloud-dark.svg" width="100%" alt="AWS Cloud and Terraform">
+  </picture>
+</p>
+
+### ☁️ AWS
+
+`EC2` `VPC` `S3` `IAM` `RDS` `Lambda`
+
+`CloudWatch` `Route 53` `CloudFront`
+
+`Auto Scaling` `WAF` `EKS`
+
+### 🏗️ Infrastructure as Code
+
+`Terraform`
+
+- Reusable configurations
+- Infrastructure provisioning
+- VPC configuration
+- EC2 provisioning
+- S3 configuration
+- IAM configuration
+
+---
+
+# 🐳 Containers & Kubernetes
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GovindSaiKrishnaRayarao/GovindSaiKrishnaRayarao/main/assets/govind-containers-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GovindSaiKrishnaRayarao/GovindSaiKrishnaRayarao/main/assets/govind-containers-light.svg">
+    <img src="https://raw.githubusercontent.com/GovindSaiKrishnaRayarao/GovindSaiKrishnaRayarao/main/assets/govind-containers-dark.svg" width="100%" alt="Docker and Kubernetes">
+  </picture>
+</p>
+
+```text
+Application
+     ↓
+Dockerfile
+     ↓
+Docker Image
+     ↓
+Container
+     ↓
+Kubernetes
+     ↓
+Pod
+     ↓
+Service
+```
+
+### Docker
+
+- Images
+- Containers
+- Dockerfiles
+- Containerized applications
+
+### Kubernetes
+
+- Pods
+- Deployments
+- Services
+- Container orchestration
+- EKS fundamentals
+
+---
+
+# 📈 Monitoring & Observability
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GovindSaiKrishnaRayarao/GovindSaiKrishnaRayarao/main/assets/govind-observability-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GovindSaiKrishnaRayarao/GovindSaiKrishnaRayarao/main/assets/govind-observability-light.svg">
+    <img src="https://raw.githubusercontent.com/GovindSaiKrishnaRayarao/GovindSaiKrishnaRayarao/main/assets/govind-observability-dark.svg" width="100%" alt="Monitoring and observability">
+  </picture>
+</p>
+
+```text
+Application
+     ↓
+Metrics
+     ↓
+Prometheus
+     ↓
+Grafana
+     ↓
+CloudWatch
+     ↓
+Troubleshooting
+```
+
+### Tools
+
+`Prometheus` `Grafana` `AWS CloudWatch`
+
+---
+
+# 🛠️ Technology Stack
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GovindSaiKrishnaRayarao/GovindSaiKrishnaRayarao/main/assets/govind-stack-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GovindSaiKrishnaRayarao/GovindSaiKrishnaRayarao/main/assets/govind-stack-light.svg">
+    <img src="https://raw.githubusercontent.com/GovindSaiKrishnaRayarao/GovindSaiKrishnaRayarao/main/assets/govind-stack-dark.svg" width="100%" alt="Animated technology stack">
+  </picture>
+</p>
+
+| Area | Technologies |
+|---|---|
+| ☁️ Cloud | AWS, Azure Fundamentals |
+| 🏗️ IaC | Terraform |
+| 🔄 CI/CD | Jenkins, GitHub Actions |
+| 🐳 Containers | Docker |
+| ☸️ Orchestration | Kubernetes |
+| 🐧 OS | Linux, Windows |
+| 🐍 Programming | Python, Bash, SQL |
+| 🔀 Version Control | Git, GitHub |
+| 📊 Monitoring | Prometheus, Grafana, CloudWatch |
+| 🌐 Web | Nginx |
+| 🗄️ Database | MySQL |
+
+---
+
+# 🎯 Featured Projects
+
+## 1. AWS Infrastructure Provisioning Using Terraform
+
+**AWS • Terraform • EC2 • VPC • S3 • IAM**
+
+### What I built
+
+- Configured VPC infrastructure
+- Provisioned EC2 resources
+- Configured S3 storage
+- Created IAM policies and roles
+- Created reusable Terraform configurations
+- Standardized infrastructure deployment
+- Improved provisioning repeatability by approximately **40%**
+
+```text
+Terraform
+    ↓
+AWS Provider
+    ↓
+VPC
+ ┌──┴─────┐
+EC2      S3
+ │
+IAM
+ │
+AWS Infrastructure
+```
+
+---
+
+## 2. CI/CD Pipeline Automation Using Jenkins
+
+**Jenkins • Git • GitHub • Webhooks • Linux**
+
+### Pipeline
+
+```text
+GitHub Push
+     ↓
+Webhook
+     ↓
+Jenkins
+     ↓
+Build
+     ↓
+Test
+     ↓
+Deployment
+```
+
+### What I built
+
+- GitHub and Jenkins integration
+- GitHub webhook trigger
+- Three-stage Build / Test / Deployment pipeline
+- Automated builds
+- Automated testing
+- Deployment workflow
+- Git-based version control
+
+---
+
+## 3. Docker & Kubernetes
+
+**Docker • Kubernetes • Linux**
+
+Hands-on work with:
+
+- Docker images
+- Docker containers
+- Containerized applications
+- Kubernetes pods
+- Deployments
+- Services
+- Kubernetes fundamentals
+
+---
+
+# 🏭 BHEL Project
+
+## Python-Based Document Data Extraction & OCR Automation
+
+**Project Intern — BHEL**
+
+**May 2024 – June 2024**
+
+<p align="center">
+
+```text
+Documents
+    ↓
+Python
+    ↓
+Data Processing
+    ↓
+OCR
+    ↓
+Text Extraction
+    ↓
+Structured Data
+```
+
+</p>
+
+### Work
+
+- Built a Python-based ETL workflow
+- Processed document information
+- Used OCR for image-based documents
+- Extracted text from unstructured information
+- Automated repetitive data-processing work
+
+---
+
+# 🧠 Python & Data Projects
+
+## 📰 Fake News Detection
+
+**Python • NLP • Machine Learning**
+
+- Text preprocessing
+- Dataset preparation
+- NLP
+- Feature extraction
+- Classification
+- Machine learning workflow
+
+## 😊 Emotion Detection
+
+**Python • NLP • Machine Learning**
+
+- Text preprocessing
+- Feature extraction
+- SVM
+- Decision Tree
+- Random Forest
+
+## 📊 Data Analysis
+
+**Python • Pandas • NumPy • Matplotlib • Seaborn**
+
+- Data preprocessing
+- Exploratory data analysis
+- Visualization
+- Dataset analysis
+
+---
+
+# 🏅 Certification
+
+## Microsoft Azure Fundamentals — AZ-900
+
+**Microsoft Azure • February 2024**
+
+Knowledge areas include:
+
+- Cloud concepts
+- Azure services
+- Azure architecture
+- Security
+- Governance
+- Pricing
+- Cloud management
+
+---
+
+# 🧭 Current Focus
+
+```text
+AWS
+ ↓
+Terraform
+ ↓
+Docker
+ ↓
+Jenkins
+ ↓
+Kubernetes
+ ↓
+Monitoring
+ ↓
+Cloud / DevOps Engineering
+```
+
+### Currently strengthening
+
+- AWS infrastructure
 - Terraform
 - Jenkins
 - GitHub Actions
 - Docker
 - Kubernetes
-- Amazon EKS
-- Prometheus & Grafana
-- Linux administration
-- Cloud troubleshooting
-- Infrastructure automation
+- Linux
+- Prometheus
+- Grafana
+- CloudWatch
+- Cloud security fundamentals
 
 ---
 
-## 🏆 Certifications & Learning
+# 📚 How I Learn
 
-- **Microsoft Azure Fundamentals (AZ-900)**
-- GenAI Masterclasses
-- Continuous hands-on learning in AWS & DevOps
+```text
+        LEARN
+          ↓
+        BUILD
+          ↓
+        BREAK
+          ↓
+     TROUBLESHOOT
+          ↓
+       AUTOMATE
+          ↓
+      DOCUMENT
+          ↓
+        REPEAT
+```
+
+I prefer **hands-on learning** — building projects, understanding how the components connect, breaking configurations, troubleshooting them and documenting what I learn.
 
 ---
 
-## 📊 GitHub Activity
+# 📊 GitHub Analytics
 
 <p align="center">
-
-<a href="https://github.com/GovindSaiKrishnaRayarao">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=GovindSaiKrishnaRayarao&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
-    alt="Govind's GitHub Statistics"
-  >
-</a>
-
+  <img src="https://github-readme-stats.vercel.app/api?username=GovindSaiKrishnaRayarao&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" height="170">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GovindSaiKrishnaRayarao&layout=compact&theme=transparent&hide_border=true" height="170">
 </p>
 
 <p align="center">
-
-<a href="https://github.com/GovindSaiKrishnaRayarao">
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=GovindSaiKrishnaRayarao&theme=tokyonight&hide_border=true"
-    alt="Govind's GitHub Contribution Streak"
-  >
-</a>
-
-</p>
-
----
-
-## 👻 Featured Repositories
-
-### 🔧 Infrastructure & Terraform
-
-**[terrafrom-project](https://github.com/GovindSaiKrishnaRayarao/terrafrom-project)**  
-`Terraform` · `AWS` · `Infrastructure as Code`
-
----
-
-### 🚀 Terraform CI/CD
-
-**[terraformcicd](https://github.com/GovindSaiKrishnaRayarao/terraformcicd)**  
-`Terraform` · `Jenkins` · `CI/CD` · `AWS`
-
----
-
-### ⚙️ DevOps Projects
-
-**[devops](https://github.com/GovindSaiKrishnaRayarao/devops)**  
-`DevOps` · `Cloud` · `Automation`
-
----
-
-### 👤 Profile & Projects
-
-**[govind](https://github.com/GovindSaiKrishnaRayarao/govind)**  
-`GitHub` · `Projects` · `DevOps`
-
----
-
-## ⚡ Power-Ups
-
-<p align="center">
-
-<a href="https://aws.amazon.com/">
-<img src="https://img.shields.io/badge/AWS-Cloud-orange?style=for-the-badge&logo=amazonaws" alt="AWS">
-</a>
-
-<a href="https://developer.hashicorp.com/terraform">
-<img src="https://img.shields.io/badge/Terraform-IaC-7B42BC?style=for-the-badge&logo=terraform" alt="Terraform">
-</a>
-
-<a href="https://www.docker.com/">
-<img src="https://img.shields.io/badge/Docker-Containers-2496ED?style=for-the-badge&logo=docker" alt="Docker">
-</a>
-
-<a href="https://kubernetes.io/">
-<img src="https://img.shields.io/badge/Kubernetes-Orchestration-326CE5?style=for-the-badge&logo=kubernetes" alt="Kubernetes">
-</a>
-
-<a href="https://www.jenkins.io/">
-<img src="https://img.shields.io/badge/Jenkins-CI%2FCD-D24939?style=for-the-badge&logo=jenkins" alt="Jenkins">
-</a>
-
-<a href="https://www.python.org/">
-<img src="https://img.shields.io/badge/Python-Automation-3776AB?style=for-the-badge&logo=python" alt="Python">
-</a>
-
-<a href="https://www.linux.org/">
-<img src="https://img.shields.io/badge/Linux-System-000000?style=for-the-badge&logo=linux" alt="Linux">
-</a>
-
-<a href="https://git-scm.com/">
-<img src="https://img.shields.io/badge/Git-Version%20Control-F05032?style=for-the-badge&logo=git">
-</a>
-
+  <img src="https://streak-stats.demolab.com?user=GovindSaiKrishnaRayarao&theme=transparent&hide_border=true" width="70%">
 </p>
 
 ---
 
-## 💼 Open to Opportunities
+# 🐍 Contribution Graph
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation">
+</p>
+
+---
+
+# 🎯 2026 Goals
+
+- ☁️ Strengthen AWS cloud engineering
+- 🏗️ Build production-style Terraform projects
+- 🔄 Improve Jenkins and GitHub Actions
+- 🐳 Strengthen Docker
+- ☸️ Improve Kubernetes skills
+- 📊 Improve observability
+- 🐍 Build Python automation projects
+- 🔐 Strengthen cloud security fundamentals
+- 🚀 Start my professional DevOps / Cloud Engineering career
+
+---
+
+# 💼 Open to Opportunities
 
 I'm currently interested in:
 
-**Junior DevOps Engineer · AWS Cloud Engineer · Cloud Support Engineer · DevOps Intern · SRE / Cloud Operations**
+- Junior DevOps Engineer
+- AWS Cloud Engineer
+- Cloud Support Engineer
+- Cloud Operations Engineer
+- DevOps Trainee
+- SRE / Cloud Support
+- AWS Cloud Intern
 
-📍 **Hyderabad, India**
+📍 **Hyderabad / Remote**
 
-📧 **[Email Me](mailto:govindsaikrishnarayarao@gmail.com)**
+I'm looking for opportunities where I can work with **cloud infrastructure, automation, CI/CD, containers and reliability-focused engineering**.
 
-🔗 **[LinkedIn](https://www.linkedin.com/in/govind-sai-krishna-rayarao)**
+---
 
-💻 **[GitHub](https://github.com/GovindSaiKrishnaRayarao)**
+# 📡 Signal
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GovindSaiKrishnaRayarao/GovindSaiKrishnaRayarao/main/assets/govind-signal-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GovindSaiKrishnaRayarao/GovindSaiKrishnaRayarao/main/assets/govind-signal-light.svg">
+    <img src="https://raw.githubusercontent.com/GovindSaiKrishnaRayarao/GovindSaiKrishnaRayarao/main/assets/govind-signal-dark.svg" width="100%" alt="Animated DevOps signal">
+  </picture>
+</p>
+
+---
+
+# 🤝 Connect With Me
+
+<p align="center">
+
+<a href="https://github.com/GovindSaiKrishnaRayarao">
+<img src="https://raw.githubusercontent.com/GovindSaiKrishnaRayarao/GovindSaiKrishnaRayarao/main/assets/github.svg" width="65" alt="GitHub">
+</a>
+
+&nbsp;&nbsp;&nbsp;
+
+<a href="https://www.linkedin.com/in/govind-sai-krishna-rayarao/">
+<img src="https://raw.githubusercontent.com/GovindSaiKrishnaRayarao/GovindSaiKrishnaRayarao/main/assets/linkedin.svg" width="65" alt="LinkedIn">
+</a>
+
+&nbsp;&nbsp;&nbsp;
+
+<a href="mailto:govindsaikrishnarayao@gmail.com">
+<img src="https://raw.githubusercontent.com/GovindSaiKrishnaRayarao/GovindSaiKrishnaRayarao/main/assets/email.svg" width="65" alt="Email">
+</a>
+
+</p>
 
 ---
 
 <p align="center">
-
   <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/GovindSaiKrishnaRayarao/GovindSaiKrishnaRayarao/main/govind-end-dark.svg"
-    >
-    <img
-      src="https://raw.githubusercontent.com/GovindSaiKrishnaRayarao/GovindSaiKrishnaRayarao/main/govind-end-light.svg"
-      alt="Automate. Deploy. Monitor. Improve."
-      width="100%"
-    >
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GovindSaiKrishnaRayarao/GovindSaiKrishnaRayarao/main/assets/govind-end-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GovindSaiKrishnaRayarao/GovindSaiKrishnaRayarao/main/assets/govind-end-light.svg">
+    <img src="https://raw.githubusercontent.com/GovindSaiKrishnaRayarao/GovindSaiKrishnaRayarao/main/assets/govind-end-dark.svg" width="100%" alt="Govind Sai Krishna Rayarao">
   </picture>
-
 </p>
 
 <p align="center">
-  <b>Automate. Deploy. Monitor. Improve.</b>
+  <strong>⚡ Automate the manual. Build the repeatable. Learn by doing.</strong>
+</p>
+
+<p align="center">
+  ⭐ Thanks for visiting my GitHub profile!
 </p>
