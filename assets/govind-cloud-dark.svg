@@ -1,0 +1,48 @@
+<svg width="100%" viewBox="0 0 1200 360" xmlns="http://www.w3.org/2000/svg">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#07111f"/><stop offset="1" stop-color="#18234a"/>
+  </linearGradient>
+  <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0" stop-color="#22d3ee"/><stop offset="0.5" stop-color="#6366f1"/><stop offset="1" stop-color="#a78bfa"/>
+  </linearGradient>
+  <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+    <feGaussianBlur stdDeviation="4" result="b"/>
+    <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+  </filter>
+  <filter id="soft" x="-50%" y="-50%" width="200%" height="200%">
+    <feGaussianBlur stdDeviation="14"/>
+  </filter>
+</defs>
+<rect width="1200" height="360" rx="28" fill="url(#bg)"/>
+<circle cx="180" cy="80" r="120" fill="#22d3ee" opacity=".10" filter="url(#soft)">
+  <animate attributeName="cx" values="180;240;180" dur="12s" repeatCount="indefinite"/>
+</circle>
+<circle cx="1000" cy="290" r="130" fill="#8b5cf6" opacity=".10" filter="url(#soft)">
+  <animate attributeName="cy" values="290;240;290" dur="14s" repeatCount="indefinite"/>
+</circle>
+
+<rect x="55" y="45" width="1090" height="270" rx="26" fill="#091525" opacity=".95" stroke="#8b5cf6" stroke-opacity=".5"/>
+<text x="600" y="82" text-anchor="middle" fill="#eaf6ff" font-family="sans-serif" font-size="26" font-weight="700">TERRAFORM → AWS INFRASTRUCTURE</text>
+<g font-family="sans-serif" text-anchor="middle">
+  <rect x="105" y="130" width="190" height="90" rx="18" fill="#6d28d9" opacity=".9"/>
+  <text x="200" y="168" fill="white" font-size="22" font-weight="700">Terraform</text>
+  <text x="200" y="195" fill="#ddd6fe" font-size="15">plan → apply</text>
+  <path d="M295 175 H405" stroke="url(#accent)" stroke-width="5"/>
+  <circle cx="350" cy="175" r="7" fill="#22d3ee"><animate attributeName="cx" values="305;395;305" dur="2s" repeatCount="indefinite"/></circle>
+  <rect x="410" y="115" width="210" height="120" rx="22" fill="#12315a" stroke="#22d3ee"/>
+  <text x="515" y="168" fill="#eaf6ff" font-size="30" font-weight="700">AWS</text>
+  <text x="515" y="197" fill="#eaf6ff" font-size="16">VPC + IAM</text>
+  <path d="M620 175 H720" stroke="url(#accent)" stroke-width="5"/>
+  <circle cx="675" cy="175" r="7" fill="#a78bfa"><animate attributeName="cx" values="630;710;630" dur="2s" repeatCount="indefinite"/></circle>
+  <rect x="730" y="105" width="140" height="70" rx="16" fill="#172554" stroke="#f59e0b"/>
+  <text x="800" y="148" fill="#eaf6ff" font-size="20">EC2</text>
+  <rect x="890" y="105" width="140" height="70" rx="16" fill="#172554" stroke="#ef4444"/>
+  <text x="960" y="148" fill="#eaf6ff" font-size="20">S3</text>
+  <rect x="730" y="195" width="140" height="70" rx="16" fill="#172554" stroke="#34d399"/>
+  <text x="800" y="238" fill="#eaf6ff" font-size="20">RDS</text>
+  <rect x="890" y="195" width="140" height="70" rx="16" fill="#172554" stroke="#22d3ee"/>
+  <text x="960" y="238" fill="#eaf6ff" font-size="20">CloudWatch</text>
+</g>
+
+</svg>

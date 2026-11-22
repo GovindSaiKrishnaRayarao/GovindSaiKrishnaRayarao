@@ -1,0 +1,42 @@
+<svg width="100%" viewBox="0 0 1200 360" xmlns="http://www.w3.org/2000/svg">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#f7fbff"/><stop offset="1" stop-color="#eaf4ff"/>
+  </linearGradient>
+  <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0" stop-color="#22d3ee"/><stop offset="0.5" stop-color="#6366f1"/><stop offset="1" stop-color="#a78bfa"/>
+  </linearGradient>
+  <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+    <feGaussianBlur stdDeviation="4" result="b"/>
+    <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+  </filter>
+  <filter id="soft" x="-50%" y="-50%" width="200%" height="200%">
+    <feGaussianBlur stdDeviation="14"/>
+  </filter>
+</defs>
+<rect width="1200" height="360" rx="28" fill="url(#bg)"/>
+<circle cx="180" cy="80" r="120" fill="#22d3ee" opacity=".10" filter="url(#soft)">
+  <animate attributeName="cx" values="180;240;180" dur="12s" repeatCount="indefinite"/>
+</circle>
+<circle cx="1000" cy="290" r="130" fill="#8b5cf6" opacity=".10" filter="url(#soft)">
+  <animate attributeName="cy" values="290;240;290" dur="14s" repeatCount="indefinite"/>
+</circle>
+
+<rect x="55" y="50" width="1090" height="260" rx="26" fill="#ffffff" opacity=".95" stroke="#34d399" stroke-opacity=".5"/>
+<text x="600" y="88" text-anchor="middle" fill="#10233d" font-family="sans-serif" font-size="26" font-weight="700">OBSERVABILITY LOOP</text>
+<path d="M145 210 C250 105 350 105 455 210 S665 315 770 210 S980 105 1080 210" fill="none" stroke="url(#accent)" stroke-width="4" opacity=".5"/>
+<g font-family="sans-serif" text-anchor="middle">
+ <rect x="100" y="135" width="180" height="90" rx="18" fill="#12315a" stroke="#22d3ee"/>
+ <text x="190" y="173" fill="#10233d" font-size="22" font-weight="700">Application</text><text x="190" y="199" fill="#10233d" font-size="14">metrics</text>
+ <rect x="350" y="135" width="180" height="90" rx="18" fill="#7f1d1d" stroke="#ef4444"/>
+ <text x="440" y="173" fill="white" font-size="22" font-weight="700">Prometheus</text><text x="440" y="199" fill="#fecaca" font-size="14">collect</text>
+ <rect x="600" y="135" width="180" height="90" rx="18" fill="#6b3a10" stroke="#f59e0b"/>
+ <text x="690" y="173" fill="white" font-size="22" font-weight="700">Grafana</text><text x="690" y="199" fill="#fde68a" font-size="14">visualize</text>
+ <rect x="850" y="135" width="180" height="90" rx="18" fill="#12315a" stroke="#34d399"/>
+ <text x="940" y="173" fill="#10233d" font-size="22" font-weight="700">CloudWatch</text><text x="940" y="199" fill="#10233d" font-size="14">observe</text>
+</g>
+<circle cx="280" cy="180" r="7" fill="#22d3ee"><animate attributeName="cx" values="280;350;280" dur="2s" repeatCount="indefinite"/></circle>
+<circle cx="530" cy="180" r="7" fill="#a78bfa"><animate attributeName="cx" values="530;600;530" dur="2s" repeatCount="indefinite"/></circle>
+<circle cx="780" cy="180" r="7" fill="#34d399"><animate attributeName="cx" values="780;850;780" dur="2s" repeatCount="indefinite"/></circle>
+
+</svg>
