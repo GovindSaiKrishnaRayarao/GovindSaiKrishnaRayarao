@@ -2,7 +2,7 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GovindSaiKrishnaRayarao/GovindSaiKrishnaRayarao/main/assets/govind-hero-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GovindSaiKrishnaRayarao/GovindSaiKrishnaRayarao/main/assets/govind-hero-light.svg">
-    <img src="https://raw.githubusercontent.com/GovindSaiKrishnaRayarao/GovindSaiKrishnaRayarao/main/assets/govind-hero-dark.svg" width="100%" alt="Govind Sai Krishna Rayarao">
+    <img src="https://raw.githubusercontent.com/GovindSaiKrishnaRayarao/GovindSaiKrishnaRayao/main/assets/govind-hero-dark.svg" width="100%" alt="Govind Sai Krishna Rayarao">
   </picture>
 </p>
 
@@ -40,6 +40,7 @@
 
 <table>
 <tr>
+
 <td width="60%" valign="top">
 
 <h3>👋 Who I Am</h3>
@@ -90,6 +91,7 @@ focus:
 </pre>
 
 </td>
+
 </tr>
 </table>
 
@@ -182,7 +184,7 @@ EKS Fundamentals
 <h2>🚀 What I've Built</h2>
 
 <p align="center">
-  <em>My profile is centered around practical projects rather than just technology names.</em>
+  <em>Practical projects where I applied cloud, automation and DevOps concepts.</em>
 </p>
 
 <table>
@@ -639,21 +641,27 @@ June 2024
 <table>
 <tr>
 
-<td width="20%" align="center">
+<td width="30%" align="center" valign="middle">
 
-🎓
+<img src="https://raw.githubusercontent.com/GovindSaiKrishnaRayarao/GovindSaiKrishnaRayarao/main/assets/microsoft-certified-azure-fundamentals%20(1).png" width="180" alt="Microsoft Certified Azure Fundamentals AZ-900">
 
 </td>
 
-<td width="80%">
+<td width="70%" valign="middle">
 
 <h3>Microsoft Azure Fundamentals — AZ-900</h3>
 
-<strong>Microsoft Azure • February 2024</strong>
+<strong>Microsoft • February 2024</strong>
 
 <br><br>
 
 Cloud concepts • Azure services • Architecture • Security • Governance • Pricing • Management
+
+<br><br>
+
+<a href="https://learn.microsoft.com/en-us/credentials/certifications/azure-fundamentals/">
+  View Azure Fundamentals
+</a>
 
 </td>
 
@@ -702,12 +710,8 @@ Monitoring
 </tr>
 </table>
 
-<br>
-
 <p align="center">
-
 <strong>AWS → Terraform → CI/CD → Docker → Kubernetes → Monitoring</strong>
-
 </p>
 
 ---
